@@ -1,0 +1,127 @@
+Técnica de Logica de programação.
+
+Técnica Linear - execução sequenciada, uma única dimensão 
+
+tecnica estuturada - organização, disposição de ordem de elementos essenciais.
+
+tecnica modular - controlada por conunto de regras, partes independentes. 
+Então dentro de cada modulo existira seu conjunto de técnica especifica. com isso a gente consegue a simplificação do problema ou decompor o problema em modulos menores. 
+
+
+tipologia e váriaveis. 
+
+tipos primitivos  de entrada de dados - 
+
+Numéricos - inteiros ( numeros positivos ou negativos sem cadas decimais) 
+
+Reais - ( positivos e negativos com casas decimais )
+
+caracteres - (entrada de dados letras.)
+
+lógico - Verdadeiro - 1 falso -0 ( booleano ) 
+
+O que é uma variável - é uma estrutura mutavel que pode variar dentro do seu valor e é inconstante, pode modificar o seu contéudo.  ( armazena um dado, mas que n tem certeza do valor ) 
+
+ela pode assumir qualquer um dos valores de um determinado conjunto de valores. 
+
+regras ( atrivuição de um ou mais caracteres
+primeira letra - não número
+sem espaços em branco
+vedado
+utilização de palavras reservadas caracteres e números
+
+Exp ( x2 ,nome_usuario, telefone, Z4)
+
+papel de uma variável - ação ou controle
+ação modificação do estado
+
+controle viagiada, controle de alguma equação 
+
+INSTRUÇÕES PRIMITIVAS 
+
+variáveis 
+ou
+constantes
+
+Estrutura condicional
+
+simples - condição operação 
+
+Composta - condição + operação ( se não ) + execeção 
+
+
+Encadeada - condição - condição - exceção 
+( se, senão, se ) 
+
+
+ESTRUTURA DE REPETIÇÃO 
+
+LAÇOS, CONTROLE DE FLU
+XO 
+MALHAS DE REPETIÇÃO
+REPETIÇÃO 
+
+EXISTE UMA CONDIÇÃO DE PARADA
+numero de repetições pré fixadas
+
+
+vetores e matrizes -
+
+vetores é uma sequência de dados (tipos de dados)
+
+um vetor é caracterizado por uma variavel dimensionada com tamnho pré-fixado
+
+expl. container ou matriz unidimensional
+
+matriz é uma tabela organizada em linhas e colunas no formato m x n, onde m representa o número de linhas ( horizontal ) e n o número de coluas (vertical)
+
+
+o que são funções 
+
+
+exp. metodo, bloco, sub-rotina
+
+função conecta um elemento A a um elemento B 
+
+instruções de entrada e saida 
+
+existem duas formas. saída programada ou saída por interrupção
+
+saída na programação 
+código 
+
+casos 
+bem sucedida
+erro de sintaxe ou outro 
+erros de programação
+problemas com a interface
+
+
+programa fonte + compilador + programa objeto assembly 
+
+análise lexica
+
+processo de compilação, função ler o código fonte e agrupar com simbolos lexicos, conhecidos como token 
+
+no processo ela particionar, classifar e elimar o que n é necessário 
+
+
+
+análise sintática 
+
+sintaxe "componente do sistema linguístico que interligam os constituintes da sentença, atribuindo-lhe uma estrutura. definindo a corretude do programa. 
+
+ela depende da linguagem de programação utilizada 
+
+análise semântica 
+
+está relacionada ao significados. é o estudo do incide sobre a relação entra signifcantes como palavras frases sina is e símbolos 
+
+paradigmas de programação
+
+é a forma de resolução de problemas com diretrizes e limitações especificas de cada paradigma ultilizando linguagem de programação
+
+
+
+
+

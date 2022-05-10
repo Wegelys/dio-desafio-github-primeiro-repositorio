@@ -1,0 +1,78 @@
+comandos git - windows
+
+cd - acessar pastas
+dir - listar pastas 
+mkdir - criar pastas
+del/rmdir
+
+cls - limpar terminar
+ 
+echo - criar aquivo dentro da pasta. 
+exp c:\ workspace > echo hello > hello.txt
+
+
+del - deleta o que tem dentro da pasta. 
+rmdir - deleta tudo
+
+
+objetos do Git - 
+blob - arquivos
+git - hash-object --stdin
+
+Tree - pastas 
+
+apontam pra outro arquivos, blob ou até outras arvores como Tree q vão apontar a outros arquivos
+
+Commit - informação dentro dos arquivos
+
+aponta pra uma arvore ou parente ou autor ou mensagem
+
+chaves  SSH - TOKENS
+
+chave ssh, é uma forma de conseguir uma conexão segura, atráves de duas chaves uma publica e privada. tudo criptografado
+
+
+terminal sempre colocamos o nome do terminal na frente exp;
+git init
+git add
+git commit 
+
+ls -a - mostra arquivos ocultos
+
+configuração inicial do git para primeira vez q vamos usalo
+
+git config --global user.email"weelmax@gmail.com"
+git config --global user.name Perkles
+
+arquivo markdown, é uma forma mais humana de escrever um arquivo em html
+para escrever o titulo grande no markdown só preciar colocar uma # antes do titulo, exp
+
+#titulo nivel 1
+## titutlo nivel 2
+
+tracked se divide em tres fases diferentes
+
+unmodified, modified, staged
+
+comanda para acessar configurações do github;
+
+git config --list
+
+comando para mandar um arquivo para o repositorio remoto 
+
+git remote add origin (endereço do repositorio )
+ +++ 
+git push origin master
+
+git clone - copiar o repositorio diretamente do github
+
+
+
+
+
+
+
+
+
+
+
